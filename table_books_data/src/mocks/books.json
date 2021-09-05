@@ -4,31 +4,31 @@
             "id": 1,
             "title": "Chwyty gitarowe dla bystrzakow",
             "pages": 350,
-            "date": "2012-01-01"
+            "date": "2021-01-01"
         },
         {
             "id": 2,
             "title": "Algorytmy dla bystrzakow",
-            "pages": 250,
-            "date": "2016-03-01"
+            "pages": 430,
+            "date": "2012-01-01"
         },
         {
             "id": 3,
-            "title": "Programowanie dla bystrzakow",
-            "pages": 251,
-            "date": "2011-01-11"
+            "title": "Inwestowanie dla bystrzakow",
+            "pages": 250,
+            "date": "2018-02-11"
         },
         {
             "id": 4,
-            "title": "Chemia matura 2022",
-            "pages": 262,
-            "date": "2021-09-01"
+            "title": "Chemia matura dla bystrzakow",
+            "pages": 150,
+            "date": "2021-11-01"
         },
         {
             "id": 5,
-            "title": "Sukulenty w domu",
-            "pages": 100,
-            "date": "2020-11-04"
+            "title": "Programowanie dla bystrzakow",
+            "pages": 120,
+            "date": "2013-07-31"
         }
     ]
 }
