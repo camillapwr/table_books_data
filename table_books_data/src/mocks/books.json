@@ -1,0 +1,34 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "Chwyty gitarowe dla bystrzakow",
+            "pages": 350,
+            "date": "2012-01-01"
+        },
+        {
+            "id": 2,
+            "title": "Algorytmy dla bystrzakow",
+            "pages": 250,
+            "date": "2016-03-01"
+        },
+        {
+            "id": 3,
+            "title": "Programowanie dla bystrzakow",
+            "pages": 251,
+            "date": "2011-01-11"
+        },
+        {
+            "id": 4,
+            "title": "Chemia matura 2022",
+            "pages": 262,
+            "date": "2021-09-01"
+        },
+        {
+            "id": 5,
+            "title": "Sukulenty w domu",
+            "pages": 100,
+            "date": "2020-11-04"
+        }
+    ]
+}
